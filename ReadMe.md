@@ -4,7 +4,7 @@ Autor/Entwickler: Moritz Holter
 
 <hr>
 Datenquelle: https://figshare.com/articles/dataset/Dataset_An_IoT-Enriched_Event_Log_for_Process_Mining_in_Smart_Factories/20130794<br>
-Code-Source: https://github.com/nklingen/Transformer-Time-Series-Forecasting<br>
+Transformer-Anleitung: https://github.com/nklingen/Transformer-Time-Series-Forecasting<br>
 Article: https://medium.com/mlearning-ai/transformer-implementation-for-time-series-forecasting-a9db2db5c820<br>
 <hr>
 Die ursprünglichen Datensätze wurden zur Beschränkung der Größe aus dem Repository entfernt.<br>
